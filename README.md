@@ -2,39 +2,43 @@
 
 ### Backend & Cloud Software Engineer
 
-U.S. Army veteran and Microsoft Software & Systems Academy graduate
-building cloud-native backend systems with C#/.NET, AWS, Azure,
-Terraform, Docker, and modern DevOps practices.
+U.S. Army veteran and Microsoft Software & Systems Academy (MSSA) graduate building backend, cloud, and distributed systems with C#/.NET, AWS, Azure, Terraform, Docker, and modern DevOps practices.
 
-I focus on building systems around:
+I focus on backend engineering, cloud infrastructure, distributed systems, security, reliability, observability, and automation.
+
+---
+
+## Engineering Focus
 
 - Cloud-native backend architecture
 - REST APIs and distributed systems
 - Infrastructure as Code
 - Containers and CI/CD
+- Event-driven architecture
 - Observability and reliability
-- Cloud security and IAM
+- Cloud security, IAM, and RBAC
+
+---
 
 ## Core Stack
 
-**Backend**
+**Backend**  
 C# • .NET • ASP.NET Core • REST APIs • Entity Framework Core
 
-**Cloud**
+**Cloud**  
 AWS • Azure
 
-**Infrastructure & DevOps**
+**Infrastructure & DevOps**  
 Terraform • Docker • GitHub Actions • CI/CD
 
-**Data**
+**Data**  
 PostgreSQL • SQL Server
 
-**Frontend**
+**Frontend**  
 React • TypeScript
 
-**Engineering**
-Distributed Systems • Event-Driven Architecture • Observability
-• IAM • RBAC • Reliability Engineering
+**Engineering**  
+Distributed Systems • Event-Driven Architecture • Observability • IAM • RBAC • Reliability Engineering
 
 ---
 
@@ -42,64 +46,78 @@ Distributed Systems • Event-Driven Architecture • Observability
 
 ## OpsBoard Cloud
 
-Production-style cloud platform for incident management,
-deployment tracking, service health monitoring, and audit logging.
+Cloud-ready incident management and service monitoring platform built with C# and ASP.NET Core.
 
-Architecture:
+The backend models operational workflows including incidents, services, authentication, and system monitoring while providing a foundation for a production cloud deployment architecture.
 
-React / TypeScript
-        ↓
-ASP.NET Core API
-        ↓
-PostgreSQL
+### Current Engineering
 
-AWS ECS Fargate
-Application Load Balancer
-RDS PostgreSQL
-CloudWatch
-Terraform
-Docker
-GitHub Actions
+- ASP.NET Core Web API
+- RESTful API design
+- Entity Framework Core
+- Incident management
+- Service management
+- JWT authentication
+- User registration and login
+- Database migrations
+- Layered backend architecture
 
-Highlights:
+### Production Cloud Roadmap
 
-- Containerized ASP.NET Core services
-- AWS ECS Fargate deployment
-- PostgreSQL with RDS
-- Infrastructure provisioned through Terraform
-- CI/CD with GitHub Actions
-- Logging and monitoring using CloudWatch
-- Production-style architecture and documentation
+- PostgreSQL
+- Docker containerization
+- AWS ECS Fargate
+- Application Load Balancer
+- Amazon RDS
+- Terraform Infrastructure as Code
+- GitHub Actions CI/CD
+- CloudWatch logging and monitoring
 
+[View OpsBoard Cloud](https://github.com/fredwilliamsjr/opsboard-cloud)
 
 ---
 
 ## Azure Resource Event Notification Platform
 
-Event-driven .NET platform modeling cloud infrastructure
-event ingestion, routing, retries, monitoring, and dead-letter processing.
+Event-driven .NET platform modeling cloud infrastructure event ingestion, subscription routing, asynchronous processing, retries, monitoring, and dead-letter handling.
 
-Highlights:
+The project explores reliability patterns used in distributed and cloud-native systems.
+
+### Current Engineering
 
 - ASP.NET Core Web API
-- Event subscription routing
+- Event ingestion
+- Subscription-based routing
+- Asynchronous background processing
 - Retry handling
 - Dead-letter processing
 - Health checks
 - Metrics endpoints
 - Docker
-- GitHub Actions
-- Terraform infrastructure
+- GitHub Actions CI
+- Terraform infrastructure foundation
 - Architecture documentation
+- Reliability and security documentation
 
+[View Azure Resource Event Notification Platform](https://github.com/fredwilliamsjr/azure-resource-notification-platform)
 
 ---
 
 ## What I'm Working On
 
-Building increasingly production-grade distributed cloud systems
-focused on scalability, security, reliability, and observability.
+Building increasingly production-grade backend and distributed cloud systems with an emphasis on:
+
+- Scalability
+- Reliability
+- Security
+- Observability
+- Infrastructure automation
+- Cloud-native deployment
+
+I'm continuing to deepen my experience with C#/.NET, AWS, Azure, distributed systems, Infrastructure as Code, containerization, and CI/CD.
+
+---
 
 ## Connect
 
-LinkedIn: www.linkedin.com/in/fredwilliamsiii
+[LinkedIn](https://www.linkedin.com/in/fredwilliamsiii) • [GitHub](https://github.com/fredwilliamsjr)
